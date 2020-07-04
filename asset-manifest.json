@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/call-app-frontend/static/css/main.d01ee0dd.chunk.css",
+    "main.js": "/call-app-frontend/static/js/main.12465420.chunk.js",
+    "main.js.map": "/call-app-frontend/static/js/main.12465420.chunk.js.map",
+    "runtime-main.js": "/call-app-frontend/static/js/runtime-main.3e916203.js",
+    "runtime-main.js.map": "/call-app-frontend/static/js/runtime-main.3e916203.js.map",
+    "static/js/2.8efdcb3a.chunk.js": "/call-app-frontend/static/js/2.8efdcb3a.chunk.js",
+    "static/js/2.8efdcb3a.chunk.js.map": "/call-app-frontend/static/js/2.8efdcb3a.chunk.js.map",
+    "index.html": "/call-app-frontend/index.html",
+    "precache-manifest.4a47332f68fdfb8ad0c4647a11a5d4e4.js": "/call-app-frontend/precache-manifest.4a47332f68fdfb8ad0c4647a11a5d4e4.js",
+    "service-worker.js": "/call-app-frontend/service-worker.js",
+    "static/css/main.d01ee0dd.chunk.css.map": "/call-app-frontend/static/css/main.d01ee0dd.chunk.css.map",
+    "static/js/2.8efdcb3a.chunk.js.LICENSE.txt": "/call-app-frontend/static/js/2.8efdcb3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e916203.js",
+    "static/js/2.8efdcb3a.chunk.js",
+    "static/css/main.d01ee0dd.chunk.css",
+    "static/js/main.12465420.chunk.js"
+  ]
+}
